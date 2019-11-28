@@ -8,6 +8,7 @@ public class TipoSkript : MonoBehaviour
     void Start()
     {
         Debug.Log("Tipo chto-to napisal");
+        Debug.Log("tipo escho ras napisal");
     }
 
     // Update is called once per frame
